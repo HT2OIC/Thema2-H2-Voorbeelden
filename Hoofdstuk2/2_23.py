@@ -1,0 +1,1 @@
+status_led = False  # Lokale LED status bijhouden
